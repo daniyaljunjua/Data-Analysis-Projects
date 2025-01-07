@@ -26,7 +26,7 @@ I enjoy working on projects that allow me to experiment with different datasets 
 ## Projects
 
 1. **Netflix Analysis**  
-   - This project analyzes data from Netflix using Python and performs exploratory data analysis (EDA), visualizations, and some machine learning algorithms.
+   - This project analyzes data from Netflix using Python and performs exploratory data analysis (EDA), visualizations.
    
 
 ## Getting Started
